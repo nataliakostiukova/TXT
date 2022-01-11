@@ -1,0 +1,13 @@
+Terminal
+Git hub 
+API testing
+Postman
+Fidler
+VPN
+Bug reports
+Dev tools
+Mobile testing
+Charles
+SQL
+Git
+Scrum
